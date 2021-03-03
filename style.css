@@ -134,7 +134,7 @@ h1 {
     background: var(--very-dark-grayish-blue);
 
     width: 85vw;
-    height: 12vh;
+    height: 70px;
 
     border-radius: 0 0 10px 10px;
 
@@ -168,6 +168,7 @@ h1 {
 .attribution {
     position: absolute;
     bottom: 0;
+    font-size: 12px;
 }
 
 .attribution a {
@@ -216,7 +217,7 @@ h1 {
         border-radius: 10px;
         box-shadow: 0px 4px 15px 6px var(--light-grayish-blue);
 
-        left: 57.5%;
+        left: 61%;
         bottom: 80%;
     }
 
@@ -233,7 +234,7 @@ h1 {
         border-top: 10px solid var(--very-dark-grayish-blue);
 
         position: absolute;
-        top: 100%;
+        top: 98%;
       }
 
     .social {
